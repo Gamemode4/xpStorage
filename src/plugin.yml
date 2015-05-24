@@ -1,0 +1,4 @@
+name: xpStorage
+version: 0.0.1
+main: cn.codetector.minecraftplugin.gamemode4.xpStorage.xpStorageMain
+author: Codetector
